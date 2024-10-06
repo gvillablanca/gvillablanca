@@ -11,7 +11,7 @@
 
 <h3 align="center">Contactame a:</h3>
 <p align="center">
-    <a href="https://linkedin.com/in/genoveva-villablanca-villalobo" target="blank">
+    <a href="https://www.linkedin.com/in/gvillablancav/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="genoveva-villablanca-villalobo" height="30" width="40" />
     </a>
 </p>
