@@ -1,72 +1,67 @@
-<!-- Banner opcional -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=200&section=header&text=Genoveva%20Villablanca&fontSize=35&fontColor=ffffff" />
-</p>
-
-<h3 align="center">DevOps Engineer | Cloud Engineer | Full Stack Developer</h3>
-
-<p align="center">
-  🚀 GCP • Kubernetes • Docker • CI/CD • Automation • Data Platforms
-</p>
+<h1 align="center">Hi 👋, I'm reizewr blue</h1>
+<h3 align="center">DevOps / SRE Engineer • Full Stack Developer • Frontend Developer</h3>
 
 ---
 
-## 👩‍💻 Sobre mí
+## 🚀 About Me
 
-Soy ingeniera de software con enfoque en **DevOps, Cloud y automatización**, trabajando actualmente en entornos productivos en **Google Cloud Platform**.
-
-Me especializo en:
-- Automatización de procesos
-- Orquestación de workloads
-- Monitoreo de sistemas críticos
-- Gestión de plataformas cloud empresariales
-
-Apasionada por el aprendizaje continuo, la tecnología y la mejora constante de procesos.
+- 🔧 DevOps & SRE Engineer focused on cloud-native systems, automation and reliability
+- 🌐 Full Stack Developer building scalable web applications
+- 🎨 Frontend Developer passionate about clean UI/UX and performance
+- ☁️ Experienced in cloud environments, CI/CD pipelines and containerized architectures
+- 🧠 Always learning and improving system design, observability and distributed systems
+- 🇨🇱 Based in Chile
 
 ---
 
-## ⚙️ Tech Stack
+## 🧰 Tech Stack
 
-### ☁️ Cloud & DevOps
-![GCP](https://img.shields.io/badge/GCP-Cloud-blue)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
-![Docker](https://img.shields.io/badge/Docker-Containers-blue)
-![CI/CD](https://img.shields.io/badge/CI/CD-Automation-green)
-![Terraform](https://img.shields.io/badge/Terraform-IaC-purple)
-![Ansible](https://img.shields.io/badge/Ansible-Automation-red)
+### ⚙️ DevOps / SRE
+- Docker • Kubernetes • Helm
+- CI/CD (GitHub Actions, GitLab CI, Jenkins)
+- Terraform • Infrastructure as Code
+- Monitoring: Prometheus • Grafana • ELK Stack
+- Cloud: AWS • GCP • Azure (basic/learning)
 
-### 💻 Lenguajes
-![Java](https://img.shields.io/badge/Java-Backend-orange)
-![Python](https://img.shields.io/badge/Python-Automation-yellow)
-![JavaScript](https://img.shields.io/badge/JavaScript-Web-yellow)
-![C%23](https://img.shields.io/badge/C%23-.NET-blue)
+### 💻 Backend
+- Node.js • Python • Java
+- REST APIs • GraphQL
+- Express • FastAPI • Spring Boot
+- MongoDB • PostgreSQL • Redis
 
-### 📊 Data & Monitoring
+### 🎨 Frontend
+- Angular • Ionic
+- React (basic/intermediate)
+- HTML5 • CSS3 • SCSS • TypeScript
+- Bootstrap • Material UI
+
+### 🧪 Data & Automation
+- Python scripting
 - BigQuery
-- Airflow
-- Datadog
-- Looker Studio
-- Cloudera
+- API integrations
+- Automation workflows
 
 ---
 
-## 💼 Experiencia
+## 🏗️ What I Do
 
-### 🏦 DevOps Engineer — Banco Falabella (Actualidad)
-- Plataformas productivas en **GCP**
-- Automatización con Python + APIs + Power Automate
-- Workflows con **Kubernetes (Argo) y Airflow**
-- Monitoreo y alertas con Teams y email
-- Dashboards con BigQuery + Looker Studio
+- 🧩 Design and deploy cloud-native architectures
+- 🔄 Build CI/CD pipelines for automated deployments
+- 📊 Implement observability (logs, metrics, tracing)
+- ⚡ Develop full stack applications end-to-end
+- 📱 Build hybrid mobile apps with Ionic/Angular
+- 🛠️ Automate operational processes and data pipelines
 
-### ☁️ DevOps Engineer — Kibernum / Falabella
-- Infraestructura en OCI + Cloudera
-- Soporte de ambientes productivos y QA
+---
 
-### ☁️ DevOps Engineer — Ingesmart
-- Kubernetes + Docker + CI/CD GitLab
-- Administración de bases de datos multi motor
-- Infraestructura en Azure y GCP
+## 📌 Featured Projects
+
+> (Puedes mantener aquí tus repos destacados como ya los tienes en tu perfil)
+
+- 🔥 Cloud Native Event Driven Lab (Confluent + Kubernetes)
+- 📦 E-commerce platform (Django / Angular / Bootstrap)
+- ⚙️ DevOps automation pipelines
+- 📊 BigQuery + Control-M monitoring scripts
 
 ---
 
@@ -77,38 +72,19 @@ Apasionada por el aprendizaje continuo, la tecnología y la mejora constante de 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvillablanca&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gvillablanca&theme=tokyonight" />
 </p>
 
 ---
 
-## 🚀 Proyectos Destacados
+## 📫 Contact
 
-- 🔧 Automatización de pipelines en Kubernetes
-- ☁️ Laboratorios GCP / DevOps
-- 📊 Dashboards de monitoreo con BigQuery + Looker
-- ⚙️ Scripts de automatización con Python
-
----
-
-## 🎓 Formación
-
-- Analista Programador — Duoc UC
-- Front-End Developer — Laboratoria
-- Ingeniería en Informática (incompleto)
+- GitHub: https://github.com/gvillablanca  
+- LinkedIn: (agrega tu link aquí si quieres)
+- Email: (opcional)
 
 ---
 
-## 📫 Contacto
+## ⚡ Fun Fact
 
-<p align="center">
-  <a href="mailto:gvillalobomagmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/gvillablancav/">LinkedIn</a> •
-  <a href="https://github.com/gvillablanca">GitHub</a>
-</p>
-
----
-
-<p align="center">
-  💙 Always learning, always building.
-</p>
+I don’t just build apps… I build systems that don’t fall over at 3 AM 😄
