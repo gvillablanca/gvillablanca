@@ -1,90 +1,32 @@
-# 👋 Hey, I'm @gvillablanca
+<!-- ███████████████████████████████████████████████████ -->
+<!-- 💀 DARK SENIOR DEVOPS / SRE PROFILE -->
+<!-- ███████████████████████████████████████████████████ -->
 
-💀 DevOps / SRE Engineer | Full Stack Developer | Frontend Developer  
-⚙️ Cloud • Kubernetes • CI/CD • Observability • Automation  
-🚀 Building scalable, resilient and event-driven systems
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050505,100:1a1a2e&text=GVILLABLANCA&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=DevOps%20%7C%20SRE%20%7C%20Cloud%20Architect%20%7C%20Full%20Stack&descAlignY=60" />
+</p>
 
----
-
-## 🧠 About Me
-
-I'm a software engineer focused on **reliability, scalability and automation**.
-
-I work across the full stack, but my strongest focus is on:
-
-- ⚙️ DevOps & SRE practices (automation, reliability, monitoring, incident response)
-- ☁️ Cloud-native architectures (GCP / AWS / Kubernetes)
-- 🔁 CI/CD pipelines and GitOps workflows
-- 📡 Event-driven systems and distributed architectures
-- 🎨 Frontend development with modern frameworks
-
-I enjoy turning complex infrastructure into **simple, observable and maintainable systems**.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Cloud-native+engineer+building+resilient+systems;Kubernetes+%7C+CI%2FCD+%7C+Observability+%7C+Automation;Event-driven+architectures+%7C+SRE+mindset;Full-stack+developer+with+infra+obsession" />
+</p>
 
 ---
 
-## 🧰 Tech Stack
-
-### ⚙️ DevOps / SRE
-- Docker • Kubernetes • Helm
-- CI/CD (GitHub Actions, GitLab CI, Jenkins)
-- Terraform / IaC
-- Observability (Prometheus, Grafana, Loki)
-- Linux / Bash / Networking basics
-
-### ☁️ Cloud
-- Google Cloud Platform (GKE, Pub/Sub, Cloud Run)
-- AWS (EC2, S3, IAM basics)
-- Event-driven architectures
-
-### 💻 Backend / Full Stack
-- Node.js • Python • Java
-- REST APIs / Microservices
-- PostgreSQL • MongoDB
-- Kafka / Pub/Sub (event streaming)
-
-### 🎨 Frontend
-- Angular (Ionic apps)
-- React (basics/intermediate)
-- HTML5 • CSS3 • TypeScript
-- UI/UX responsive design
+<p align="center">
+  <img src="https://img.shields.io/badge/Seniority-Senior_Engineer-black?style=for-the-badge&logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-SRE%20%7C%20DevOps-00f7ff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cloud-GCP%20%7C%20AWS-4285F4?style=for-the-badge&logo=googlecloud"/>
+  <img src="https://img.shields.io/badge/Kubernetes-Expert-326ce5?style=for-the-badge&logo=kubernetes"/>
+</p>
 
 ---
 
-## 🚀 What I'm building / interested in
+## 🧠 SYSTEM BOOT LOG
 
-- Event-driven architectures (Kafka / PubSub / Confluent)
-- Kubernetes labs (GKE / EKS)
-- SRE labs: monitoring, autoscaling, resilience testing
-- Full-stack apps with cloud-native backend
-- Automation pipelines for real-world systems
-
----
-
-## 📌 Featured Projects
-
-> (Aquí puedes dejar tus repos destacados)
-
-- 🔗 Cloud Native Event Driven Lab (GKE + EKS + Pub/Sub + Confluent)
-- 🔗 DevOps CI/CD Pipelines
-- 🔗 Full Stack Applications (Angular / Node / Python)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gvillablanca&show_icons=true&theme=tokyonight)
-
----
-
-## 🧬 Mindset
-
-> “Build systems that don’t just work — they survive.”
-
-Reliability is not a feature, it's a design choice.
-
----
-
-## 📫 Contact
-
-- GitHub: https://github.com/gvillablanca
-- Open to DevOps / SRE / Full Stack roles
+```bash
+$ booting profile...
+$ loading cloud credentials...
+$ initializing kubernetes context...
+$ connecting observability stack...
+$ status: ONLINE ⚡
+$ role: SRE / DEVOPS / FULL STACK ENGINEER
